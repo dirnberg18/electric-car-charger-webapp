@@ -55,7 +55,7 @@ passport.use(new passportHttp.BasicStrategy(function(username, password, done) {
     done(null, userResult);
 }));
 
-app.post('/Login', passport.authenticate('basic', {session:false}), someMiddleware, (req, res) => {
+app.post('/Login', passport.authenticate('basic', {session:false}), (req, res) => {
 console.log(req.users);
 res.sendStatus(200);
 });
