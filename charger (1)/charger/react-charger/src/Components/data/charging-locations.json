@@ -1,0 +1,309 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 1,
+          "FACILITYID": 1,
+          "NAME": "Oulu City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Kiviharjuntie 11, 90220 Oulu",
+          "ADDRESS_FR": "1111",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.512160, 65.008930]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 2,
+          "FACILITYID": 2,
+          "NAME": "Oulu Airport",
+          "NAME_FR": null,
+          "ADDRESS": "Lentokentäntie 720, 90410 Oulu",
+          "ADDRESS_FR": "2222",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.412850, 64.935920]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 3,
+          "FACILITYID": 3,
+          "NAME": "Kokkola Railway Station",
+          "NAME_FR": null,
+          "ADDRESS": "Kustaa Aadolfinkatu 1, 67100 Kokkola",
+          "ADDRESS_FR": "3333",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.130480, 63.838482]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 4,
+          "FACILITYID": 4,
+          "NAME": "Vaasa City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Hietalahdenkatu 2 4, 65100 Vaasa",
+          "ADDRESS_FR": "4444",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.616270, 63.095249]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 5,
+          "FACILITYID": 5,
+          "NAME": "Tampere City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Kyttälänkatu 12, 33100 Tampere",
+          "ADDRESS_FR": "5555",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.78712, 61.49911]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 6,
+          "FACILITYID": 6,
+          "NAME": "Helsinki City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Fabianinkatu 27, 00100 Helsinki",
+          "ADDRESS_FR": "6666",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.945831, 60.192059]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 7,
+          "FACILITYID": 7,
+          "NAME": "Hanku Center",
+          "NAME_FR": null,
+          "ADDRESS": "Torikatu 2, 10900 Hanko",
+          "ADDRESS_FR": "7777",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.970695, 59.832394]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 8,
+          "FACILITYID": 8,
+          "NAME": "Turku City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Yliopistonkatu 20, 20100 Turku",
+          "ADDRESS_FR": "8888",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.264824, 60.454510]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 9,
+          "FACILITYID": 9,
+          "NAME": "Espoo City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Kannusillankatu 2, 02770 Espoo",
+          "ADDRESS_FR": "9999",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [24.655899, 60.205490]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PARK_ID": 10,
+          "FACILITYID": 10,
+          "NAME": "Naantali City Center",
+          "NAME_FR": null,
+          "ADDRESS": "Tuulensuunkatu 8 21100 Naantali",
+          "ADDRESS_FR": "1001",
+          "FACILITY_T": null,
+          "FACILITY_1": null,
+          "ACCESSCTRL": null,
+          "ACCESSIBLE": null,
+          "OPEN": null,
+          "NOTES": null,
+          "MODIFIED_D": "2020/10/02",
+          "CREATED_DA": null,
+          "FACILITY": " ",
+          "FACILITY_F": null,
+          "DESCRIPTIO": " ",
+          "DESCRIPT_1": null,
+          "PICTURE_LI": null,
+          "PICTURE_DE": null,
+          "PICTURE__1": null
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [22.025087, 60.466087]
+        }
+      }
+  ]
+}
